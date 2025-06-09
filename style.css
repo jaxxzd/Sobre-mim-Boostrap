@@ -1,0 +1,97 @@
+figcaption {
+    display: none;
+}
+
+#img-logo {
+    width: 40px;
+    height: 40px;
+}
+
+#position-index {
+    display: flex;
+    gap: 10px;
+    margin: 1rem;
+}
+
+#main-index {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.card-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card-img-top {
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+}
+
+#card-img-1 {
+    border-radius: 10px;
+}
+
+#card-img-2 {
+    border-radius: 10px;
+}
+
+#card-img-3 {
+    border-radius: 10px;
+}
+
+.card {
+    width: 100%;
+    background-color: #212529;
+}
+
+#card-1 {
+    background-color: #212529;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid black;
+}
+
+#card-2 {
+    background-color: #212529;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid black;
+}
+
+#card-3 {
+    background-color: #212529;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid black;
+}
+
+#container-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5rem;
+    background-color: #212529;
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.form-label {
+    color: #FFFFFF;
+}
+
+.img-footer {
+    width: 30px;
+    padding-right: 10px;
+}
